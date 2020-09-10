@@ -1,0 +1,20 @@
+.editor__container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 20px;
+}
+
+.text__field{
+    min-width: 400px;
+    min-height: 400px;
+}
+
+
+.btn__row{
+    display: flex;
+    width: 100px;
+    height: 65px;
+    justify-content: center;
+   
+}

@@ -1,0 +1,20 @@
+.text__value{
+    min-width: 400px;
+    min-height: 400px;
+    border: 1px solid black;
+}
+
+.yellow {
+    color: yellow;
+    min-width: 400px;
+    min-height: 400px;
+  
+}
+
+.font__size{
+    font-size: 24px;
+}
+
+.background__colour{
+ background-color: grey;
+}
